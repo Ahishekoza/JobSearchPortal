@@ -1,0 +1,10 @@
+reactNative Router 
+npm install react-native-screens react-native-safe-area-context
+npm install @react-navigation/native-stack
+
+
+for fetching the data create the new file to where we will pass the endpoint and query so according to the we will fetch the data 
+
+Functionality of Active Button
+create a State variable which value will change on the click of the button so
+set some default value and then on button click change the value of variable to present value  of the button
