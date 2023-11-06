@@ -8,3 +8,6 @@ for fetching the data create the new file to where we will pass the endpoint and
 Functionality of Active Button
 create a State variable which value will change on the click of the button so
 set some default value and then on button click change the value of variable to present value  of the button
+
+Linking is the Component of React Native which is use to redirect to the link to web browser
+keyExtractor prop of FlatList which provides unique Id to rendered Item
